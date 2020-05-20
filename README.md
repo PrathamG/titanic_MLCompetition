@@ -4,7 +4,6 @@ This repository contains the ipython notebook used to make my latest submission 
 **Please view the html version of this submission on this [link](http://prathamg.rf.gd/titanic.html)** 
 
 ![Kaggle Result](result.png)\
-Please view the html version of this submission on this [link](http://prathamg.rf.gd/titanic.html) \
 Techniques used in developing this model:
 * Exploratory Data Analysis
 * Feature Generation
