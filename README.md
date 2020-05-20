@@ -1,5 +1,6 @@
 # titanic_MLCompetition
-This repository contains the ipython notebook used to make my latest submission to Kaggle's Titanic Survivor Prediction Competition (Top 15%)
+This repository contains the ipython notebook used to make my latest submission to Kaggle's Titanic Survivor Prediction Competition (Top 15%)\\
+**Please view the html version of this submission on this [link](http://prathamg.rf.gd/titanic.html)** \\
 ![Kaggle Result](result.png)\
 Please view the html version of this submission on this [link](http://prathamg.rf.gd/titanic.html) \
 Techniques used in developing this model:
